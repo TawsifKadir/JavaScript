@@ -7,3 +7,5 @@ while(userNum != gameNum){
 
 console.log("Congratulations! You have won the game");
 console.log("Congratulations!");
+console.log("Congratulations");
+
