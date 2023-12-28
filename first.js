@@ -1,11 +1,11 @@
-let gameNum = 25;
-let userNum = prompt("Please enter a number");
+// let gameNum = 25;
+// let userNum = prompt("Please enter a number");
 
-while(userNum != gameNum){
-    userNum = prompt("Wrong! Please enter another number");
-}
+// while(userNum != gameNum){
+//     userNum = prompt("Wrong! Please enter another number");
+// }
 
-console.log("Congratulations! You have won the game");
-console.log("Congratulations!");
-console.log("Congratulations");
+// console.log("Congratulations! You have won the game");
+// console.log("Congratulations!");
+// console.log("Congratulations");
 
