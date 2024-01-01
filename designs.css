@@ -9,9 +9,23 @@ form{
     background-color: white;
     margin-top: 150px;
     border-radius: 20px;
-    padding: 50px;
+    padding: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 body{
     background: url(roads.jpg);
 }
+
+@media (max-width : 1200px){
+    form{
+        width: 300px;
+    }
+}
+
+.container-side-by-side { 
+	display: flex; 
+	flex-direction: row; 
+	flex-wrap: wrap; 
+} 
