@@ -4,23 +4,18 @@
     box-sizing: border-box;
 }
 
+body{
+    background: url(Highways.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 form{
-    width: 24%;
+    width: 60%;
     background-color: white;
-    margin-top: 150px;
+    margin-top: 40%;
     border-radius: 20px;
     padding: 30px;
     padding-left: 40px;
     padding-right: 40px;
 }
-
-body{
-    background: url(roads.jpg);
-}
-
-@media (max-width : 1200px){
-    form{
-        width: 300px;
-    }
-}
-
