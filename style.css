@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-body{
+/* body{
     background: url(Highways.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
 form{
     width: 60%;
